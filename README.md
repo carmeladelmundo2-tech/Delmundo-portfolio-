@@ -1,9 +1,9 @@
-##About Me 
+#About Me
    Hi my Name Carmela H. Del Mundo ,i live in Mamburao Occidental Mindoro , Im 19 years old , I have two siblings ,my twin sister and my younger brother, Also i have my whole family and my partner.
 
   I like to watch horror movies and comedy , i most likely to watch Dolphy the King of comedy in our country, although i like watching horror movies but i always afraid of being alone. Also i like to watch cartoons like SpongeBob ,Stich ,Lincoln, loud,and etc., i like stich character but not his personality beacause he is stubborn
 
-##Contact 
+#Contact 
 
 09485526872/09949880788
 carmeladelmundo2@gmail.com
